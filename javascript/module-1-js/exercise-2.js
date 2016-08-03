@@ -1,5 +1,5 @@
-var x = 1;
-var v = 2;
+var x = 15;
+var v = 5;
 ++x;
 console.log(x);
 x++;
